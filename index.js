@@ -1,5 +1,5 @@
 
-import './style.css';
+import './src/style.css';
 
   function component() {
     var element = document.getElementById('hello');
